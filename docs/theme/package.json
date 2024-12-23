@@ -26,7 +26,7 @@
     "@vuepress/helper": "2.0.0-rc.66",
     "@vuepress/plugin-feed": "2.0.0-rc.66",
     "@vuepress/plugin-revealjs": "2.0.0-rc.66",
-    "@vueuse/core": "12.0.0",
+    "@vueuse/core": "12.2.0",
     "artplayer": "5.2.1",
     "docs-shared": "workspace:*",
     "echarts-wordcloud": "2.1.0",
